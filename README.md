@@ -1,5 +1,12 @@
 # esp32-trackpoint-example
 
+
+
+https://github.com/gzeronet/esp32-trackpoint-example/assets/4970608/0ec4569b-8dae-4a6d-956a-3c8cbf9ef297
+
+
+
+
 Port trackpoint ps/2 to esp32 c6
  
 [Here](https://github.com/gzeronet/stm32f4-trackpoint-mouse) is my stm32F4 version maybe someone interested in.
